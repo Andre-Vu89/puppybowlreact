@@ -1,0 +1,1 @@
+<h1>This is Single Player Component</h1>

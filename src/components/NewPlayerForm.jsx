@@ -1,0 +1,1 @@
+<h1>This is New Player Component</h1>
